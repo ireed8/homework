@@ -1,0 +1,4 @@
+let pizzaPlace = Tonys
+let numberOfToppings = 8
+
+console.log(pizzaPlace)
