@@ -1,0 +1,5 @@
+let pizzaTopping = {"peperoni","brrad","rice"};
+
+function greetCustomer(){Welcome to Pizza House, our toppings are: 
+    console.log
+};
