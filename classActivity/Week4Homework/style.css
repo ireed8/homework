@@ -1,0 +1,53 @@
+
+
+head {
+  Margin: 80px;
+  color: deepskyblue;
+  background-color: rgb(110, 90, 221);
+}
+
+h2 {
+  padding-top: 100px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  color:deepskyblue;
+  background-color: rgb(67, 46, 182);
+}
+
+h1 {
+  color: deepskyblue;
+  background: rgb(45, 28, 145);
+}
+
+
+
+element.style {
+}
+body {
+    display: block;
+    margin: 8px;
+    background-color: rgb(35, 30, 107);
+}
+
+ol {
+  color:deepskyblue;
+  font-style: italic;
+  font-size:x-large;
+  font
+  background-color: rgb(24, 7, 92);
+}
+
+div {
+  padding: 10px;
+  font-stretch: narrower;
+  font-size: xx-large;
+  color: deepskyblue;
+  background: rgb(11, 4, 37);
+}
+
+
+
+ol :hover {
+  color: brown;
+}30
