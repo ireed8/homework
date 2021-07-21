@@ -3,21 +3,24 @@
 head {
   Margin: 80px;
   color: deepskyblue;
-  background-color: rgb(110, 90, 221);
+  background-color: rgb(241, 52, 52);
 }
 
+#identified {
+  background-color: rgb(41, 11, 11);
+}
 h2 {
   padding-top: 100px;
   padding-right: 10px;
   padding-bottom: 5px;
   padding-left: 10px;
   color:deepskyblue;
-  background-color: rgb(67, 46, 182);
+  background-color: rgb(241, 52, 52);
 }
 
 h1 {
   color: deepskyblue;
-  background: rgb(45, 28, 145);
+  background: rgb(241, 52, 52);
 }
 
 
@@ -27,7 +30,7 @@ element.style {
 body {
     display: block;
     margin: 8px;
-    background-color: rgb(35, 30, 107);
+    background-color: rgb(241, 52, 52);
 }
 
 ol {
@@ -35,7 +38,7 @@ ol {
   font-style: italic;
   font-size:x-large;
   font
-  background-color: rgb(24, 7, 92);
+  background-color: rgb(241, 52, 52);
 }
 
 div {
@@ -43,11 +46,11 @@ div {
   font-stretch: narrower;
   font-size: xx-large;
   color: deepskyblue;
-  background: rgb(11, 4, 37);
+  background: rgb(241, 52, 52);
 }
 
 
 
 ol :hover {
-  color: brown;
+  color: rgb(110, 9, 9);
 }30
